@@ -69,28 +69,36 @@ Record 2–3 takes of each line. The last two lines: record them very quiet, alm
 
 Shoot in this order (it's the efficient order, not the edit order). Each shot: set the tripod, lock focus/exposure, hit record, do the action slowly 2–3 times, stop. Keep every clip 8–15 seconds so you have room to cut.
 
+### 🟢 / 🔴 Who films each shot — colour key
+Every shot below is tagged with a coloured dot for who records it:
+
+- 🟢 **TIM FILMS** — any shot **you appear in** (your face, silhouette, or body on camera). You self-record these on the tripod.
+- 🔴 **PARTNER FILMS** — hands, objects, and inserts with **no one identifiable on camera.** Your camera partner (the person who shared this with you) records these.
+
+> Why dots instead of coloured text? GitHub and phone screens don't display custom font colours in these documents — coloured text would just show up black. The green 🟢 and red 🔴 dots read as colour everywhere you'll review this.
+
 ### Block 1 — COOL setup (Operator). Cold light, wide-ish, camera can drift slightly.
-1. **You, small in the dark room** — sit/stand at the desk, window or screen glow behind you, you as a silhouette. Just sit still, breathe. 15s.
-2. **Hands: sign a document / initial a page.** Close, cold light, on the desk. 10s.
-3. **Hands: knot a necktie.** 10s.
-4. **Hands: set a phone face-down on the desk.** 8s.
-5. **Pour coffee**, steam in the cool light. 10s.
-6. **Empty desk / straighten a chair**, you leaving frame. 10s.
-7. **Back of your neck / over the shoulder** at the desk, screen glow. 12s.
+1. 🟢 **TIM FILMS** — **You, small in the dark room** — sit/stand at the desk, window or screen glow behind you, you as a silhouette. Just sit still, breathe. 15s.
+2. 🔴 **PARTNER FILMS** — **Hands: sign a document / initial a page.** Close, cold light, on the desk. 10s.
+3. 🔴 **PARTNER FILMS** — **Hands: knot a necktie.** 10s.
+4. 🔴 **PARTNER FILMS** — **Hands: set a phone face-down on the desk.** 8s.
+5. 🔴 **PARTNER FILMS** — **Pour coffee**, steam in the cool light. 10s.
+6. 🟢 **TIM FILMS** — **Empty desk / straighten a chair**, you leaving frame. 10s.
+7. 🟢 **TIM FILMS** — **Back of your neck / over the shoulder** at the desk, screen glow. 12s.
 
 ### Block 2 — Re-light WARM (Father). One lamp at 45°, everything close and still.
-8. **You at the kitchen table, pre-dawn feel**, rim-lit, face dark. Just sit, unmoving — this is the longest hold. 20s.
-9. **Hands: tie a child's shoe** (a small shoe on the floor works even solo). 10s.
-10. **Hands: write a name on a lunch bag** or a school form. 10s.
-11. **Pour cereal** into a bowl. 10s.
-12. **Hands: set the same phone face-down** — this time on the kitchen table. 8s.
-13. **Hand easing a door shut** (a bedroom door, slow). 10s.
-14. **Push in a small chair** at the kitchen table. 8s.
-15. *(Optional, only with consent)* a small hand or a bowl entering frame — child never identifiable. 8s.
+8. 🟢 **TIM FILMS** — **You at the kitchen table, pre-dawn feel**, rim-lit, face dark. Just sit, unmoving — this is the longest hold. 20s.
+9. 🔴 **PARTNER FILMS** — **Hands: tie a child's shoe** (a small shoe on the floor works even solo). 10s.
+10. 🔴 **PARTNER FILMS** — **Hands: write a name on a lunch bag** or a school form. 10s.
+11. 🔴 **PARTNER FILMS** — **Pour cereal** into a bowl. 10s.
+12. 🔴 **PARTNER FILMS** — **Hands: set the same phone face-down** — this time on the kitchen table. 8s.
+13. 🔴 **PARTNER FILMS** — **Hand easing a door shut** (a bedroom door, slow). 10s.
+14. 🔴 **PARTNER FILMS** — **Push in a small chair** at the kitchen table. 8s.
+15. 🔴 **PARTNER FILMS** — *(Optional, only with consent)* a small hand or a bowl entering frame — child never identifiable. 8s.
 
 ### Block 3 — CONFESSION (warm, closest, camera dead still).
-16. **Closest framing of you**, lamp to the side, face mostly dark. Turn slowly *toward* the lamp so it catches your edge. Two versions: (a) stay turned away, (b) turn until the light almost reveals you. 15s each.
-17. **Final shot:** look toward the lens for one held beat, then reach over and dim/turn off the lamp so it goes to black. 15s.
+16. 🟢 **TIM FILMS** — **Closest framing of you**, lamp to the side, face mostly dark. Turn slowly *toward* the lamp so it catches your edge. Two versions: (a) stay turned away, (b) turn until the light almost reveals you. 15s each.
+17. 🟢 **TIM FILMS** — **Final shot:** look toward the lens for one held beat, then reach over and dim/turn off the lamp so it goes to black. 15s.
 
 **The matched pairs to make sure you got** (these are what you hard-cut between in the edit): tie ⟷ child's shoe · sign ⟷ lunch bag · phone-down (desk) ⟷ phone-down (table) · coffee ⟷ cereal · straighten chair ⟷ push in small chair.
 

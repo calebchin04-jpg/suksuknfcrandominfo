@@ -18,6 +18,19 @@ The file extension `.md` just means "Markdown" — a plain text format that disp
 
 ---
 
+## 🟢 / 🔴 Who films what — the colour code
+
+In **`two-worlds-recording-guide.md`**, every shot in the shot list is tagged with a coloured dot so you know at a glance who records it:
+
+- 🟢 **Green = TIM FILMS.** Any shot **you appear in** — your face, silhouette, or body on camera. You self-record these on the tripod.
+- 🔴 **Red = PARTNER FILMS.** Hands, objects, and inserts with **no one identifiable on camera.** Your camera partner records these.
+
+**Why dots and not coloured text?** GitHub and phone screens don't display custom font colours in these documents — if the text were literally coloured green or red, it would just show up black when you review it. The 🟢 and 🔴 dots read as colour everywhere, so the signal never gets lost.
+
+If you'd rather split the shots differently — say, you want to record some of the hands shots yourself too — just tell Claude and it will re-tag them.
+
+---
+
 ## Reading the documents (the fast way)
 
 You're already in the right place. To read anything:

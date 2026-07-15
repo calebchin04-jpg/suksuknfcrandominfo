@@ -101,7 +101,6 @@ Lines marked *(added)* are not in your bio — they're brand bridges you can kee
 
 ## Notes
 - Diction is now kept to your exact bio wording. The only non-bio lines are the two marked *(added)* in Movement 3 — cut them and the script is 100% your words.
-- **Son:** "neurodivergent" throughout (corrected from the bio's "neurodiverse").
 - Runs ~75–95 seconds spoken with the pauses in.
 - **Banned words** (keep out, spoken and on screen): "journey," "transformation," "safe space," "you've got this."
 - Numbers kept as your full range — **$24M–$51M** and **20–150+**. Say the word if you want to lead with just the top figures.
